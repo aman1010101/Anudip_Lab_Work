@@ -3,7 +3,7 @@ package com;
 import java.util.Scanner;
 
 public class Simple_interest {
-	float P,R,T;
+	int P,R,T;
 	
 	public void initialize() {
 		Scanner sc= new Scanner(System.in);
